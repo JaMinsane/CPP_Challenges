@@ -23,3 +23,4 @@ add_subdirectory(googletest)
 
 add_subdirectory(Validate_IP_Address)
 add_subdirectory(Threading)
+add_subdirectory(Toeplitz_Matrix)
