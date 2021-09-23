@@ -350,7 +350,7 @@ MigrationBackup/
 .ionide/
 
 ## CUSTOM
-
+.vscode/
 .googletest/
 
 CMakeLists.txt.user
